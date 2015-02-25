@@ -23,6 +23,7 @@ msgid "LinkedIn URL"
 msgstr "LinkedIn URL"
 
 #. Description of the plugin/theme
+#: wp-content/themes/premium/mayer/style.css
 msgid "For the writer, established blogger, and inspired author."
 msgstr "ライターやベテランブロガー、作家さんなどにおすすめです。"
 
