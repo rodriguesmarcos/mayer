@@ -571,6 +571,9 @@ tr.odd {
     #comments .response-list .response-text code {
       overflow-x: scroll;
       display: block; }
+    #comments .response-list .response-text img {
+      height: auto;
+      max-width: 100%; }
   #comments .response-list .reply {
     font-size: 17px; }
   #comments #comment-pagination {
